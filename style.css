@@ -1,0 +1,11 @@
+@import url("https://fonts.maateen.me/bangla/font.css"); /* font-family: 'Bangla', sans-serif; */
+
+* {
+  font-family: "Bangla", sans-serif;
+}
+input {
+  box-shadow: none !important;
+}
+label {
+  font-weight: bold !important;
+}
